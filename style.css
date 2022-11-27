@@ -85,3 +85,6 @@ img{
     border: 2px solid grey;
     border-radius: 5px;
 }
+.display_none{
+    display: none;
+}
